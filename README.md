@@ -15,6 +15,7 @@ attitude (orientation in space) and heading (direction of travel).
 - **Attitude**: The orientation of a vehicle relative to a reference frame, typically the Earth, described by roll, pitch, and yaw angles.
 
 ### Rotational Degrees of Freedom
+![**Axes of rotation for Roll, Pitch, and Yaw.**](https://www.google.com/imgres?q=roll%20pitch%20yaw%20x%20y%20z&imgurl=https%3A%2F%2Fwww.linearmotiontips.com%2Fwp-content%2Fuploads%2F2020%2F05%2FRoll-Pitch-Yaw.jpg&imgrefurl=https%3A%2F%2Fwww.linearmotiontips.com%2Fmotion-basics-how-to-define-roll-pitch-and-yaw-for-linear-systems%2F&docid=niPaiKV8724PuM&tbnid=7cn-F8quC2XTFM&vet=12ahUKEwiskZ6Xg-qGAxWs-TgGHTpHDLQQM3oECFAQAA..i&w=560&h=492&hcb=2&ved=2ahUKEwiskZ6Xg-qGAxWs-TgGHTpHDLQQM3oECFAQAA)
 
 - **Roll**: Rotation about the longitudinal axis (ranges from -180° to +180°).
 - **Pitch**: Rotation about the lateral axis (ranges from -90° to +90°).
