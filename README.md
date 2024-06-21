@@ -16,7 +16,7 @@ attitude (orientation in space) and heading (direction of travel).
 
 ### Rotational Degrees of Freedom
 
-![**Axes of rotation for Roll, Pitch, and Yaw.**]()
+![**Axes of rotation for Roll, Pitch, and Yaw.**](https://github.com/AdithiBhatta/AHRS_Algorithm_Implementation/blob/main/Figures/Roll_Pitch_Yaw.jpeg)
 
 - **Roll**: Rotation about the longitudinal axis (ranges from -180° to +180°).
 - **Pitch**: Rotation about the lateral axis (ranges from -90° to +90°).
